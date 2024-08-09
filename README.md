@@ -7,7 +7,7 @@ Techniques,exploring new automation Frameworks. Primarily use Java and Cucumber 
 but always open to exploring new languages and tools.
 
 ⚡ How to reach me:    
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/bikashmishra1277/) [<img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" />](https://bikashmishra1277.dev/) [<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /> ](https://medium.com/@bikashmishra1277)[<img src="https://img.shields.io/badge/Credly-ff8c00?style=for-the-badge&logo=credly&logoColor=white" /> ](https://www.credly.com/users/bikash-mishra.8a1004c1)
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/bikashmishra1277/) [<img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" />](https://bikashmishra1277.dev/) [<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /> ](https://medium.com/@bikashmishra1277/) [<img src="https://img.shields.io/badge/Credly-ff8c00?style=for-the-badge&logo=credly&logoColor=white" /> ](https://www.credly.com/users/bikash-mishra.8a1004c1)
 
 
 
@@ -80,7 +80,7 @@ but always open to exploring new languages and tools.
     <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" alt="mongodb" style="vertical-align:top; margin:4px;">
   </a>
   <a href="https://www.mysql.com/">
-    <img src="https://pbs.twimg.com/profile_images/1255113654049128448/J5Yt92WW_400x400.png" alt="mySQL" width="200" height="120"style="vertical-align:top; margin:4px;">
+    <img src="https://pbs.twimg.com/profile_images/1255113654049128448/J5Yt92WW_400x400.png" alt="mySQL" width="120" height="90"style="vertical-align:top; margin:4px;">
   </a>
   <a href="https://azure.microsoft.com/en-in">
     <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21.svg" alt="Azure" style="vertical-align:top; margin:4px">
@@ -89,13 +89,13 @@ but always open to exploring new languages and tools.
     <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" alt="aws" style="vertical-align:top; margin:4px">
   </a>
   <a href="https://www.tableau.com/">
-    <img src="https://upload.vectorlogo.zone/logos/tableau/images/113a311a-6d5d-4b7e-9193-79807e4844e3.svg" alt="tableau" width="180" height="90" style="vertical-align:top; margin:4px">
+    <img src="https://upload.vectorlogo.zone/logos/tableau/images/113a311a-6d5d-4b7e-9193-79807e4844e3.svg" alt="tableau" width="120" height="90" style="vertical-align:top; margin:4px">
   </a>
   <a href="https://app.powerbi.com/">
     <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-ar21.svg" alt="powerBi" style="vertical-align:top; margin:4px">
   </a>
 <a href="https://learn.microsoft.com/en-us/office">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8k7woGMX61Im-u8ZYCOkc0e9C5fDdlB0ymA&s" alt="Excel" width="150" height="90" style="vertical-align:top; margin:4px">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8k7woGMX61Im-u8ZYCOkc0e9C5fDdlB0ymA&s" alt="Excel" width="120" height="90" style="vertical-align:top; margin:4px">
   </a>
 
 
